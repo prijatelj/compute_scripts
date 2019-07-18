@@ -13,16 +13,29 @@ mon.crc.nd.edu
 For when needing a more specific gpu specify one of the following
 , such as needing 12GB of VRAM, use titanxp machine.
 
+All others than 11
+
 - `gpu@@cvrl-titanx`
+    - 12Gb VRAM ( ? says Sam)
+    - sam says it is a little bit slower.
 - `gpu@@cvrl-1080ti`
+    - 11Gb VRAM
 - `cpu@@cvrl-titanxp`
-    - (possibly this one is wrong in its name?)
+    - possibly this one is wrong in its name?
+        - possibly `cpu@@cvrl-xp`
+    - 12Gb VRAM
+    - these are the "best", out of the set.
+
+Sam says we have access to titanxp # 13 and 14.
 
 
 ## Example usage
 `qsub -q gpu@@cvrl_gpu -pe smp 4 -l gpu_card=1 myjob.job`
 
 The command line args can be put at the top of the jobscript in the usual way.
+
+`gpu_card=1` means to request access to one gpu only.
+So this is the number of gpus being requested at a time for a job.
 
 ## Jeff Kinnison Notes:
 Historically, if you're using 1 GPU you request 1/4 of the cores on the machine, 2 GPUs -> 1/2 of the cores, and so on up to 4 GPUs
