@@ -1,0 +1,22 @@
+#!/bin/csh
+
+#$ -q gpu
+#$ -l gpu=1
+#$ -N morph-r50_vggface2_scratch_vggface2_dataset_balanced
+#$ -o /afs/crc.nd.edu/user/v/valbiero/log/
+#$ -e /afs/crc.nd.edu/user/v/valbiero/log/
+
+module load tensorflow/1.12
+
+setenv CUDA_VISIBLE_DEVICES `python3 auto_gpu.py`
+if ($CUDA_VISIBLE_DEVICES == "none") then
+    echo "No GPUs available"
+else
+    python3 ../face_matching/vggface_feature_extraction.py -s ~/MORPH_Dataset_Curated/Images/MORPH_Age_Corrected_Aligned_MTCNN_224/C_F.txt -d ~/MORPH_Dataset_Curated/Features/MORPH_Age_Corrected_Aligned_MTCNN_224/vggface2_scratch_vggface2_dataset_balanced/ --weights ~/ext_vol2/training/keras/old/r50_vggface2_scratch_vggface2_dataset_balanced/trial1/r50_vggface2_scratch_vggface2_dataset_balanced_.h5py
+
+    python3 ../face_matching/vggface_feature_extraction.py -s ~/MORPH_Dataset_Curated/Images/MORPH_Age_Corrected_Aligned_MTCNN_224/AA_F.txt -d ~/MORPH_Dataset_Curated/Features/MORPH_Age_Corrected_Aligned_MTCNN_224/vggface2_scratch_vggface2_dataset_balanced/ --weights ~/ext_vol2/training/keras/old/r50_vggface2_scratch_vggface2_dataset_balanced/trial1/r50_vggface2_scratch_vggface2_dataset_balanced_.h5py
+
+    python3 ../face_matching/vggface_feature_extraction.py -s ~/MORPH_Dataset_Curated/Images/MORPH_Age_Corrected_Aligned_MTCNN_224/C_M.txt -d ~/MORPH_Dataset_Curated/Features/MORPH_Age_Corrected_Aligned_MTCNN_224/vggface2_scratch_vggface2_dataset_balanced/ --weights ~/ext_vol2/training/keras/old/r50_vggface2_scratch_vggface2_dataset_balanced/trial1/r50_vggface2_scratch_vggface2_dataset_balanced_.h5py
+
+    python3 ../face_matching/vggface_feature_extraction.py -s ~/MORPH_Dataset_Curated/Images/MORPH_Age_Corrected_Aligned_MTCNN_224/AA_M.txt -d ~/MORPH_Dataset_Curated/Features/MORPH_Age_Corrected_Aligned_MTCNN_224/vggface2_scratch_vggface2_dataset_balanced/ --weights ~/ext_vol2/training/keras/old/r50_vggface2_scratch_vggface2_dataset_balanced/trial1/r50_vggface2_scratch_vggface2_dataset_balanced_.h5py
+endif
