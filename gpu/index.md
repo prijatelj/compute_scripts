@@ -45,3 +45,11 @@ For cpu only machines under cvrl: `long@@cvrl_cpu`
 
 ## Submit job to specific machine
 `-q long -l hostname=d12chas332` to get the exact host machine d12chas332 in the long queue.
+
+## Tensorflow and python
+To use tensorflow on the CRC do not use the tensorflow module, but instead use `module add conda` to use the CRC conda, and install tensorflow and all python packages this way.
+This allows the most flexibility in using python on the CRC giving the user full control over their python environment via conda.
+Install tensorflow-gpu for the gpu, etc...
+
+## When things are missing in modules
+If anything is required to run on the CRC but not included in modules and the CRC maintainers are unable to provide the module, then one can try to use "singularity" to make containers.
