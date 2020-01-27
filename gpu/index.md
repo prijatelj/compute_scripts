@@ -53,3 +53,9 @@ Install tensorflow-gpu for the gpu, etc...
 
 ## When things are missing in modules
 If anything is required to run on the CRC but not included in modules and the CRC maintainers are unable to provide the module, then one can try to use "singularity" to make containers.
+
+## Interactive CRC session
+Typically, `qsub` is used to submit jobs to CRC to be computed, but sometimes, esp. during debugging, we may want to work on a CRC worker machine.
+To do so, use `qrsh` with the desired commands as typicaly for qsub to request an interactive session.
+If a machine is available, you will be logged into that machine in an interactive session and may work as necessary.
+However, this interactive session is unable to be turned into a job to be run, you still must submit such jobs via `qsub`.
