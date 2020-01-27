@@ -1,17 +1,16 @@
-#CRC CVRL GPU Usage
+# CRC CVRL GPU Usage
 There is no real documentation on how to use the lab's CRC GPUs queues and how to use them without causing problems to others.
 I am storing all of that information here.
 
-##Xymon Monitor usage of CRC
+## Xymon Monitor usage of CRC
 This requires to be on the Notre Dame VPN or network at least.
 
 mon.crc.nd.edu
 
-##Available Gpus
+## Available Gpus
 `gpu@@cvrl_gpu`
 
-For when needing a more specific gpu specify one of the following
-, such as needing 12GB of VRAM, use titanxp machine.
+For when needing a more specific gpu specify one of the following, such as needing 12GB of VRAM, use titanxp machine.
 
 All others than 11
 
@@ -40,3 +39,9 @@ So this is the number of gpus being requested at a time for a job.
 ## Jeff Kinnison Notes:
 Historically, if you're using 1 GPU you request 1/4 of the cores on the machine, 2 GPUs -> 1/2 of the cores, and so on up to 4 GPUs
 `gpu_card` is how you specify the number of GPUs.
+
+## CVRL CPU only machines
+For cpu only machines under cvrl: `long@@cvrl_cpu`
+
+## Submit job to specific machine
+`-q long -l hostname=d12chas332` to get the exact host machine d12chas332 in the long queue.
