@@ -24,6 +24,9 @@ All others than 11
         - possibly `cpu@@cvrl-xp`
     - 12Gb VRAM
     - these are the "best", out of the set.
+- `grpu@@cvrl_rtx6k`
+    - 24 GB Ram
+    - 2 nodes, 4 GPUs each
 
 Sam says we have access to titanxp # 13 and 14.
 
@@ -35,6 +38,16 @@ The command line args can be put at the top of the jobscript in the usual way.
 
 `gpu_card=1` means to request access to one gpu only.
 So this is the number of gpus being requested at a time for a job.
+
+### Interactive Example
+`qrsh -q gpu@cvrl -l gpu=1 -pe smp 1`
+When doing interactive jobs, to not interfere with other's jobs use:
+
+`export CUDA_VISIBLE_DEVICES=${SGE_HGR_gpu_card// /,}`
+
+## Check usage
+Able to check who is currently using any of these nodes with:
+`nodesInUse.sh @cvrl_gpu`
 
 ## Jeff Kinnison Notes:
 Historically, if you're using 1 GPU you request 1/4 of the cores on the machine, 2 GPUs -> 1/2 of the cores, and so on up to 4 GPUs
