@@ -1,0 +1,33 @@
+How to continue to run SHADHO (or any process) on condorfe when logged out of ssh session:
+```
+#ssh login
+pagsh
+# request a token to allow your processes to live for as long as 30 days.
+kinit
+# fill in your user password
+aklog
+screen -S screen_session_name
+# run your process in that screen session, then detach with the following hotkey sequence of two:
+#Ctrl-A D
+#logout of pagsh
+#logout of ssh
+```
+
+You can return to your shell created by pagsh just by retyping it in. And then you can also return to screen using `screen -r screen_session_name`. You can check the existing jobs in screen by typing in `jobs` and return to a specific job with its number. so first job is `$1` when in screen.
+
+Note that you can create a new session with a specified name using `screen -S session_name`. Or if renaming a session while in screen `Ctrl+A : current_session_name new_session_name`. To attach a named session: `screen -r session_name`
+
+resources:
+<https://douglasduhaime.com/posts/keeping-screens-alive-on-afs-filesystems.html>
+<https://unix.stackexchange.com/a/8696/215452>
+
+
+In case you don't know this already: If you mess up like I did and need to nuke all of your shadho processes I recommend the following command replacing user with your username:
+
+```
+ps -U username | egrep -v "ssh|screen" | cut -b11-15 | xargs -t kill
+```
+This will kills all processes of the specific user except for ssh and screen, change that as necessary. [EDIT] it did when I tried it for the first few times, now it appears to not work. uncertain why. Eitherway, `killall -u username` work too, you just have to possibly run it multiple times because it may kill itself before killing the shadho workers.
+
+resource:
+<https://superuser.com/a/49165>

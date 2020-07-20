@@ -1,0 +1,12 @@
+@everyone, in svm_task change it to:
+```
+module add python/3.6.4
+mkdir .joblib
+export JOBLIB_TEMP_FOLDER=".joblib"
+python3 svm.py
+rm -rf .joblib
+```
+this will prevent an Error with Device Storage Full, in case of repeated testing.
+
+Just a reminder in case you have a script not updated like i did:
+remember to add shadho_wq_factory calls add: ` --tasks-per-worker=1` to limit each worker to one task only. This matches SHADHO's orignal experimentation.
