@@ -18,6 +18,8 @@ alias grep='grep --color=auto'
 
 PS1='${debian_chroot:+($debian_chroot)}\[\033[01;33m\]{\u\033[01;35m\]@\033[01;33m\]\h}\[\033[00m\]: \[\033[01;34m\]\w\[\033[00m\]\033[01;32m\] $git_branch\033[01;35m\]$git_dirty\n\$\[\033[00m\] '
 
+# To help the remote system being sshed into determine its color. 
+# Note that there are other ways to do this, specifically by passing it via ssh
 export TERM="xterm-256color"
 
 module add conda
