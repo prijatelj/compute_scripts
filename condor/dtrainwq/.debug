@@ -1,0 +1,321 @@
+2020/02/03 18:31:20.38 work_queue_python[9352] tcp: listening on port 9123
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Using default fast abort multiplier for 'default'.
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Work Queue is listening on port 9123.
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: log enabled and is being written to .log
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Task 1 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Task 2 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Task 3 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Task 4 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Task 5 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Task 6 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Task 7 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Task 8 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Task 9 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:31:20.38 work_queue_python[9352] wq: Task 10 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:31:20.39 work_queue_python[9352] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/03 18:33:11.54 work_queue_python[10827] tcp: listening on port 9123
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Using default fast abort multiplier for 'default'.
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Work Queue is listening on port 9123.
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: log enabled and is being written to .log
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Task 1 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Task 2 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Task 3 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Task 4 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Task 5 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Task 6 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Task 7 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Task 8 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Task 9 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:33:11.54 work_queue_python[10827] wq: Task 10 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:38:10.36 work_queue_python[13159] tcp: listening on port 9123
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Using default fast abort multiplier for 'default'.
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Work Queue is listening on port 9123.
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: log enabled and is being written to .log
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Task 1 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Task 2 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Task 3 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Task 4 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Task 5 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Task 6 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Task 7 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Task 8 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Task 9 state change: UNKNOWN (0) to WAITING (1)
+2020/02/03 18:38:10.36 work_queue_python[13159] wq: Task 10 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.69 work_queue_python[28169] tcp: listening on port 9123
+2020/02/04 10:19:09.70 work_queue_python[28169] wq: Using default fast abort multiplier for 'default'.
+2020/02/04 10:19:09.70 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.70 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.70 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.70 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.70 work_queue_python[28169] dns: looking up name crcfe01.crc.nd.edu
+2020/02/04 10:19:09.70 work_queue_python[28169] dns: crcfe01.crc.nd.edu is 129.74.85.211
+2020/02/04 10:19:09.70 work_queue_python[28169] dns: looking up addr 129.74.85.211
+2020/02/04 10:19:09.70 work_queue_python[28169] dns: 129.74.85.211 is crcfe01.crc.nd.edu
+2020/02/04 10:19:09.70 work_queue_python[28169] dns: finding my hostname: uname = crcfe01.crc.nd.edu, address = 129.74.85.211, hostname = crcfe01.crc.nd.edu
+2020/02/04 10:19:09.70 work_queue_python[28169] wq: Master advertising as crcfe01.crc.nd.edu:9123
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: log enabled and is being written to .log
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: Task 1 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: Task 2 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: Task 3 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: Task 4 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: Task 5 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: Task 6 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: Task 7 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: Task 8 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: Task 9 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: Task 10 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.exec_time: 10
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.transfer_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: capacity.master_time: 1
+2020/02/04 10:19:09.71 work_queue_python[28169] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] tcp: listening on port 9123
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Using default fast abort multiplier for 'default'.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] dns: looking up name crcfe01.crc.nd.edu
+2020/02/04 10:21:19.86 work_queue_python[29269] dns: crcfe01.crc.nd.edu is 129.74.85.211
+2020/02/04 10:21:19.86 work_queue_python[29269] dns: looking up addr 129.74.85.211
+2020/02/04 10:21:19.86 work_queue_python[29269] dns: 129.74.85.211 is crcfe01.crc.nd.edu
+2020/02/04 10:21:19.86 work_queue_python[29269] dns: finding my hostname: uname = crcfe01.crc.nd.edu, address = 129.74.85.211, hostname = crcfe01.crc.nd.edu
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Master advertising as crcfe01.crc.nd.edu:9123
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: log enabled and is being written to .log
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Task 1 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Task 2 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Task 3 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Task 4 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Task 5 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Task 6 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Task 7 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Task 8 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Task 9 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: Task 10 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.exec_time: 10
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.transfer_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: capacity.master_time: 1
+2020/02/04 10:21:19.86 work_queue_python[29269] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.05 work_queue_python[29816] tcp: listening on port 9123
+2020/02/04 10:22:40.05 work_queue_python[29816] wq: Using default fast abort multiplier for 'default'.
+2020/02/04 10:22:40.05 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.05 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.05 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.05 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.05 work_queue_python[29816] dns: looking up name crcfe01.crc.nd.edu
+2020/02/04 10:22:40.05 work_queue_python[29816] dns: crcfe01.crc.nd.edu is 129.74.85.211
+2020/02/04 10:22:40.06 work_queue_python[29816] dns: looking up addr 129.74.85.211
+2020/02/04 10:22:40.06 work_queue_python[29816] dns: 129.74.85.211 is crcfe01.crc.nd.edu
+2020/02/04 10:22:40.06 work_queue_python[29816] dns: finding my hostname: uname = crcfe01.crc.nd.edu, address = 129.74.85.211, hostname = crcfe01.crc.nd.edu
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Master advertising as crcfe01.crc.nd.edu:9123
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: log enabled and is being written to .log
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Task 1 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Task 2 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Task 3 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Task 4 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Task 5 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Task 6 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Task 7 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Task 8 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Task 9 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: Task 10 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.exec_time: 10
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.transfer_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: capacity.master_time: 1
+2020/02/04 10:22:40.06 work_queue_python[29816] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] tcp: listening on port 9123
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Using default fast abort multiplier for 'default'.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] dns: looking up name crcfe01.crc.nd.edu
+2020/02/04 10:28:59.26 work_queue_python[1844] dns: crcfe01.crc.nd.edu is 129.74.85.211
+2020/02/04 10:28:59.26 work_queue_python[1844] dns: looking up addr 129.74.85.211
+2020/02/04 10:28:59.26 work_queue_python[1844] dns: 129.74.85.211 is crcfe01.crc.nd.edu
+2020/02/04 10:28:59.26 work_queue_python[1844] dns: finding my hostname: uname = crcfe01.crc.nd.edu, address = 129.74.85.211, hostname = crcfe01.crc.nd.edu
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Master advertising as crcfe01.crc.nd.edu:9123
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: log enabled and is being written to .log
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Task 1 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Task 2 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Task 3 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Task 4 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Task 5 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Task 6 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Task 7 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Task 8 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Task 9 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: Task 10 state change: UNKNOWN (0) to WAITING (1)
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:28:59.26 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
+2020/02/04 10:29:19.28 work_queue_python[1844] wq: capacity.exec_time: 10
+2020/02/04 10:29:19.28 work_queue_python[1844] wq: capacity.transfer_time: 1
+2020/02/04 10:29:19.28 work_queue_python[1844] wq: capacity.master_time: 1
+2020/02/04 10:29:19.28 work_queue_python[1844] wq: workers status -- total: 0, active: 0, available: 0.
