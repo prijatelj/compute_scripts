@@ -33,5 +33,5 @@ This is not the greatest solution, but given it is free and built-in it is good 
 Anecdote: A friend has over 1000 references with files in his library and still has space.
 
 ### References
-Zotero Syncing: https://www.zotero.org/support/sync
-Box WebDAV: https://support.box.com/hc/en-us/articles/360043696414-WebDAV-with-Box
+- Zotero Syncing: https://www.zotero.org/support/sync
+- Box WebDAV: https://support.box.com/hc/en-us/articles/360043696414-WebDAV-with-Box
