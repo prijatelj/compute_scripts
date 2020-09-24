@@ -10,8 +10,8 @@ When using Zotero's service for reference and box.com's WebDAV and free account,
 ### The steps are:
 1. Obtain a box.com account
 2. Obtain a zotero.org account
-3. Open Zotero
-4. Got to Preferences via: Edit -> Preferences -> Sync
+3. Open local Zotero application
+4. Go to Preferences via: Edit -> Preferences -> Sync
 5. Under "Data Syncing", link your Zotero account
     - keep both "Sync automatically" and "Sync full-text content" checked, as they are by default.
 6. Under File Syncing add the following into the URL: https://dav.box.com/dav
