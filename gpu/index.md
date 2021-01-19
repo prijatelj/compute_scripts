@@ -30,6 +30,20 @@ All others than 11
 
 Sam says we have access to titanxp # 13 and 14.
 
+### Other Queues
+
+Putting other non-gpu queues here for future reference.
+These go under `#$ -q queue_name`
+
+- 'debug'
+    + 24 cores, 64GB of RAM. 1 hour only, no limit on cores. normal priority.
+    + public
+- 'long@@cvrl' or 'long@@cvrl_cpu'
+    + for CPU machines for CVRL use only.
+
+Checking nodes in use: `nodesInUse.sh queue`.
+Checking free nodes: `freenodes.sh queue`
+
 
 ## Example usage
 `qsub -q gpu@@cvrl_gpu -pe smp 4 -l gpu_card=1 myjob.job`
