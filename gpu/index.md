@@ -42,7 +42,7 @@ These go under `#$ -q queue_name`
     + for CPU machines for CVRL use only.
 
 Checking nodes in use: `nodesInUse.sh queue`.
-Checking free nodes: `freenodes.sh queue`
+Checking free nodes: `free_nodes.sh queue`
 
 
 ## Example usage
