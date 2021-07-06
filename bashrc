@@ -24,3 +24,5 @@ export TERM="xterm-256color"
 
 module add conda
 . /opt/crc/c/conda/miniconda2/4.5.4/etc/profile.d/conda.sh
+
+alias cvrl_gpu_usage="nodesInUse.sh @cvrl_gpu | tr -s ' ' | cut -d ' ' -f 5 | sort | uniq -c | sort -rn | head -n -2"

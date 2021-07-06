@@ -4,7 +4,7 @@
 ## Check Disk Space / File Storage
 For AFS systems, such as the cvrl scratch directories, you may use the following command to recieve the total usage of the volume:
 ```
-fs quota /afs/crc.nd.edu/group/cvrl/scratch_22/
+fs listquota /afs/crc.nd.edu/group/cvrl/scratch_22/
 ```
 
 Use the following command to recursively calculate the total amount of disk space usage of a directory's contents:
