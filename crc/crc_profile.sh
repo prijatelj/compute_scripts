@@ -83,6 +83,7 @@ echo "  which python"
 which python
 echo "  PYTHONPATH              = $PYTHONPATH"
 
+echo""
 echo "Host's Active Jobs"
 echo "qstat -l h=$HOSTNAME"
 qstat -l h=$HOSTNAME
