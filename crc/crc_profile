@@ -82,10 +82,13 @@ echo "  which python"
 which python
 echo "  PYTHONPATH              = $PYTHONPATH"
 
-echo""
+echo ""
 echo "Host's Active Jobs"
 echo "qstat -l h=$HOSTNAME"
 qstat -l h=$HOSTNAME
-echo""
+echo ""
 
 # TODO Perhaps print out current CPU and GPU use.
+
+echo "End of CRC Profile"
+echo "====="
