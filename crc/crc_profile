@@ -88,7 +88,14 @@ echo "qstat -l h=$HOSTNAME"
 qstat -l h=$HOSTNAME
 echo ""
 
-# TODO Perhaps print out current CPU and GPU use.
+echo "CPU info: mpstat"
+mpstat
+
+echo "Physical and Swap memory: free -h"
+free -h
+
+echo "Active Users' Resident Set (RSS) and PROCS"
+echo "USER                 RSS      PROCS" ; echo "-------------------- -------- -----" ; ps hax -o rss,user | awk '{rss[$2]+=$1;procs[$2]+=1;}END{for(user in rss) printf "%-20s %8.0f %5.0f\n", user, rss[user]/1024, procs[user];}' | sort -rnk2
 
 echo "End of CRC Profile"
 echo "====="
