@@ -77,12 +77,12 @@ echo "  PATH                    = $PATH"
 
 echo ""
 echo "Python Details:"
-echo "  `python --version`"
+echo "  python --version"
 python --version
-echo "  `which python`"
+echo "  which python"
 which python
 echo "  PYTHONPATH              = $PYTHONPATH"
 
 echo "Host's Active Jobs"
-echo "`qstat -l h=$HOSTNAME`"
+echo "qstat -l h=$HOSTNAME"
 qstat -l h=$HOSTNAME
