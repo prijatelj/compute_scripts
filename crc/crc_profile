@@ -15,7 +15,6 @@ echo "  HOSTNAME                = $HOSTNAME"
 echo "  ARC                     = $ARC"
 echo "  COMMD_PORT              = $COMMD_PORT"
 echo "  HOME                    = $HOME"
-echo "  HOSTNAME                = $HOSTNAME"
 
 echo ""
 echo "Job Environment Variables:"
@@ -65,7 +64,7 @@ echo "  SGE_HGR_gpu_card        = $SGE_HGR_gpu_card"
 echo "  CUDA_VISIBLE_DEVICES    = $CUDA_VISIBLE_DEVICES"
 
 echo ""
-echo "Nvidia Details:"
+echo "Nvidia Details: nvidia-smi"
 nvidia-smi
 
 echo ""
@@ -87,3 +86,4 @@ echo""
 echo "Host's Active Jobs"
 echo "qstat -l h=$HOSTNAME"
 qstat -l h=$HOSTNAME
+echo""
