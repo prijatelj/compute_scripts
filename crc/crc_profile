@@ -87,3 +87,5 @@ echo "Host's Active Jobs"
 echo "qstat -l h=$HOSTNAME"
 qstat -l h=$HOSTNAME
 echo""
+
+# TODO Perhaps print out current CPU and GPU use.
