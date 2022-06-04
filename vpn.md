@@ -1,4 +1,4 @@
-#Notre Dame VPN
+# Notre Dame VPN
 
 specifically on Linux:
 
@@ -9,3 +9,9 @@ Just had to use the Cisco AnyConnect protocal and give it vpnaccess.nd.edu/mfa a
 Jeff believes he is using OpenVPN and that it automatically had the AnyConnect protocol installed.
 
 This needs revisiting and experimenting with setting up on ArchLinux.
+
+## Front end
+
+- crcfe01.crc.nd.edu
+- crcfe02.crc.nd.edu
+- daccssfe.crc.nd.edu
